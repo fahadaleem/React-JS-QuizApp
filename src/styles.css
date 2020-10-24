@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: #96d0fd;
+  color: white;
+}
+
+.App {
+  background-color: #3f4964;
+  padding: 30px;
+  width: 60%;
+  margin: 0 auto;
+  margin-top: 150px;
+  border-radius: 10px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.option-button {
+  display: block;
+  margin-top: 10px;
+  background-color: transparent;
+  border: 2px solid #96d0fd;
+  padding: 20px 30px;
+  font-size: 1.5rem;
+  border-radius: 15px;
+  color: white;
+}
+
+.left {
+  font-size: 1rem;
+  margin-top: 50px;
+}
